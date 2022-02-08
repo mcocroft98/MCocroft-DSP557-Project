@@ -3,7 +3,7 @@ Capstone project for URI's Data Science Graduate Certificate
 
 # **Energy Consumption in the Steel Industry**
 
-![Steel Picture](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7COTP3WKQMI6TFQVR4NDFFROAQ.jpg&w=1200)
+![Steel Picture](https://i.imgur.com/HLXFacj.jpg)
 
 Mason Cocroft
 Prof. Robert Coyne
