@@ -1,6 +1,3 @@
-# MCocroft-DSP557-Project
-Capstone project for URI's Data Science Graduate Certificate
-
 # **Energy Consumption in the Steel Industry**
 
 ![Steel Picture](https://i.imgur.com/HLXFacj.jpg)
