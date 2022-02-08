@@ -3,8 +3,11 @@
 ![Steel Picture](https://i.imgur.com/HLXFacj.jpg)
 
 Mason Cocroft
+
 Prof. Robert Coyne
+
 DSP 557
+
 8 February, 2022
 
 
